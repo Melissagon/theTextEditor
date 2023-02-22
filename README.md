@@ -2,21 +2,20 @@
 
 ## Description
 
-ds, and react to other friends' posts. A great way to stay connected with your friends. 
+This app allows someone to create notes or code snippets with or without an internet connection
+and they can reliably retrieve them for later use.
 
 ## Installation
 
-The following commands allow you to use the program:
-npm install
-npm start 
+Navigate to https://obscure-badlands-61191.herokuapp.com/, click the install button. One is able to use the app without installing, but only in the browser. 
 
 ## Usage
 
-Insomnia allows you to make your various requests. 
+Simply enter text or code snippets. The text will remain even after refreshing the page. 
 
 ## Credits
 
 Used past assignments to help with code. My tutor and TAs also helped a great deal. 
 
-github: https://github.com/Melissagon/MongoFriends
-deployed site: 
+github: 
+deployed site: https://obscure-badlands-61191.herokuapp.com/ 
