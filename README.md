@@ -12,6 +12,7 @@ Navigate to https://obscure-badlands-61191.herokuapp.com/, click the install but
 ## Usage
 
 Simply enter text or code snippets. The text will remain even after refreshing the page. 
+![screenshot](./assets/images/screenshot.png)
 
 ## Credits
 
