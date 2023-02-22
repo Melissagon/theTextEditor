@@ -18,5 +18,5 @@ Simply enter text or code snippets. The text will remain even after refreshing t
 
 Used past assignments to help with code. My tutor and TAs also helped a great deal. 
 
-github: 
+github: https://github.com/Melissagon/theTextEditor
 deployed site: https://obscure-badlands-61191.herokuapp.com/ 
